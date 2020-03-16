@@ -1,0 +1,4 @@
+Welcome to the normal text file
+
+Normal 1
+Normal 2
